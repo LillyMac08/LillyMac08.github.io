@@ -1,5 +1,7 @@
 h1 {
-    color: #B00B69;
+    background: -webkit-linear-gradient(#B00B69, #042069);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 p {
