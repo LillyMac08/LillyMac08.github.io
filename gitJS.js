@@ -3,5 +3,5 @@ function testFunc() {
 }
 
 function button2() {
-    document.getElementsByTagName("p").style.borderstyle = 'solid';
+    document.getElementsByTagName("p").style.border = '5px solid red';
 }
