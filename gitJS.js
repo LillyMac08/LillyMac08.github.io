@@ -3,10 +3,9 @@ function testFunc() {
 }
 
 function button2() {
-    /*
     var p = document.getElementsByTagName("p");
-    p.style.color = "red";
+    p.style.color = "#B00B69";
+    /*var elem = document.getElementById("test");
+    elem.style.color = "#B00B69";
     */
-   var elem = document.getElementById("test");
-   elem.style.color = "#B00B69";
 }
