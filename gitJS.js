@@ -3,5 +3,6 @@ function testFunc() {
 }
 
 function button2() {
-    document.getElementsByTagName("p").style.border = '5px solid red';
+    var p = document.getElementsByTagName("p");
+    p.style.color = "red";
 }
